@@ -17,3 +17,5 @@ I had the opportunity to work in many sectors such as telecom, insurance, valuat
 I have experience in all phases of software development, including analysis, testing, coding.
 
 I've also been involved in many industrial projects such as software and hardware design.
+
+Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=barisyerlikaya
