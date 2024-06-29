@@ -19,4 +19,5 @@ I have experience in all phases of software development, including analysis, tes
 I've also been involved in many industrial projects such as software and hardware design.
 
 Follow me on LinkedIn: 
+
 www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=barisyerlikaya
