@@ -1,11 +1,7 @@
 # Hi there 👋 I'm Barış Yerlikaya
 
-🇹🇷 I was born and live in Turkey.
-
 🔧 I've been passionate about electronics and robotics since 2000,  
 💻 and working as a software developer and manager since 2007.
-
-👨‍👩‍👧 I'm married and a proud father of one amazing daughter — my family means the world to me. 💕
 
 🎮 I see software not just as a job, but as a part of my life:  
 a game, an entertainment, a passion, a hobby, and a business. 😊
