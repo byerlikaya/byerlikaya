@@ -1,44 +1,100 @@
-# Hi there 👋 I'm Barış Yerlikaya
+<div align="center">
 
-🔧 I've been passionate about electronics and robotics since 2000,  
-💻 and working as a software developer and manager since 2007.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Barış+Yerlikaya+👋;Senior+Software+Architect+%26+Manager;Electronics+%26+Robotics+Enthusiast;Building+things+since+2000)](https://git.io/typing-svg)
 
-🎮 I see software not just as a job, but as a part of my life:  
-a game, an entertainment, a passion, a hobby, and a business. 😊
+**Senior Software Architect & Manager · Antalya, Türkiye**
 
-📚 I love learning, sharing what I know, and helping others grow.
+*Passionate about electronics and robotics since 2000. Building production software since 2007 —
+from telecom to fintech, from assembly lines to AI middleware.*
 
-🏢 I've had the opportunity to work across many industries:  
-Telecom, Insurance, Valuation, Manufacturing, Tourism, Healthcare, Food, Electronics, and E-commerce.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-barisyerlikaya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barisyerlikaya)
+[![Twitter](https://img.shields.io/badge/X-%40byerlikaya86-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/byerlikaya86)
+[![NuGet](https://img.shields.io/badge/NuGet-barisyerlikaya-004880?style=flat-square&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/barisyerlikaya)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--4709--2464-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-4709-2464)
 
-🛠️ I have experience in all phases of software development:  
-Analysis, Coding, Testing — and more.
-
-🔌 I've also contributed to various industrial projects involving both software and hardware design.
-
-📎 Follow me on LinkedIn:  
-[linkedin.com/in/barisyerlikaya](https://www.linkedin.com/in/barisyerlikaya)
+</div>
 
 ---
 
-## 🧰 Technologies I Use
+## 👤 About Me
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+- 🔧 Electronics & robotics passion since **2000** — Arduino & Raspberry Pi tinkerer
+- 💻 Professional software architect & manager since **2007**
+- 🏭 Worked across **9 industries**: Telecom, Insurance, Valuation, Manufacturing, Tourism, Healthcare, Food, Electronics, E-commerce
+- 🛠️ Full SDLC experience: Architecture, Development, Testing, Performance Tuning & beyond
+- 🔌 Contributed to industrial projects involving both **software and hardware design** (PCB included)
+- 🎮 I see software as a game, a passion, a hobby — and a business
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%20%2F%20.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Backend & Frameworks**
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-0A0A0A?style=flat-square&logoColor=white)
+![WCF](https://img.shields.io/badge/WCF%20%2F%20SOAP-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Data & Messaging**
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**AI & Automation**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-6366F1?style=flat-square&logoColor=white)
+
+**Hardware & Embedded**
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<!-- PINNED-REPOS:START -->
+<!-- This section is auto-generated by GitHub Actions — do not edit manually -->
+<!-- PINNED-REPOS:END -->
 
 ---
 
 ## 📊 GitHub Stats
 
-![Barış's GitHub Stats](https://github-readme-stats.vercel.app/api?username=byerlikaya&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byerlikaya&layout=compact&theme=radical)
+<div align="center">
+
+![Barış's GitHub Stats](https://github-readme-stats.vercel.app/api?username=byerlikaya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byerlikaya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+</div>
 
 ---
+
+<div align="center">
+  <i>"Software is not just a job — it's a game, a passion, a hobby, and a business."</i>
+</div>
