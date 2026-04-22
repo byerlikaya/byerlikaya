@@ -25,13 +25,18 @@ jobs:
             const fs = require('fs');
 
             // Son push tarihine göre sıralı public repo'ları çek
-            const { data: repos } = await github.rest.repos.listForUser({
+            const { data: allRepos } = await github.rest.repos.listForUser({
               username: 'byerlikaya',
               type: 'public',
               sort: 'pushed',
               direction: 'desc',
-              per_page: 3
+              per_page: 10
             });
+
+            // Profil reposunu hariç tut
+            const repos = allRepos
+              .filter(r => r.name.toLowerCase() !== 'byerlikaya')
+              .slice(0, 3);
 
             const langColors = {
               'C#': '178600',
