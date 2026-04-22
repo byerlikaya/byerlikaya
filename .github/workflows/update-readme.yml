@@ -33,9 +33,10 @@ jobs:
               per_page: 10
             });
 
-            // Profil reposunu hariç tut
+            // Profil reposu ve toprak'ı hariç tut
+            const excluded = ['byerlikaya', 'toprak'];
             const repos = allRepos
-              .filter(r => r.name.toLowerCase() !== 'byerlikaya')
+              .filter(r => !excluded.includes(r.name.toLowerCase()))
               .slice(0, 3);
 
             const langColors = {
