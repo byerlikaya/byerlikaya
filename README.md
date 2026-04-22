@@ -81,9 +81,9 @@ from telecom to fintech, from assembly lines to AI middleware.*
 <!-- RECENT-REPOS:START -->
 | Project | Description | Lang | Stars | Last Push |
 |---------|-------------|------|-------|-----------|
-| [**byerlikaya**](https://github.com/byerlikaya/byerlikaya) | *No description* | — | ⭐ 2 | 2026-04-22 |
 | [**Septum**](https://github.com/byerlikaya/Septum) | Privacy-first AI middleware with local PII detection, approval gate, and automatic de-anonymization. Query your documents with any LLM — GDPR, KVKK, HIPAA ready. | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logoColor=white) | ⭐ 6 | 2026-04-22 |
 | [**SatelliteEye**](https://github.com/byerlikaya/SatelliteEye) | AI-powered live TV assistant: identifies current programs, analyzes on-screen visuals, summarizes broadcast audio, and supports Telegram + web workflows. | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logoColor=white) | ⭐ 3 | 2026-03-28 |
+| [**toprak**](https://github.com/byerlikaya/toprak) | 🌱 Toprak — Sıfırdan eğitilen, tamamen özgün açık kaynak Türkçe büyük dil modeli. From-scratch Turkish LLM built with PyTorch on Apple Silicon. | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logoColor=white) | ⭐ 0 | 2026-03-21 |
 <!-- RECENT-REPOS:END -->
 
 ---
