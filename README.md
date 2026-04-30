@@ -140,7 +140,7 @@ from telecom to fintech, from assembly lines to AI middleware.*
 <!-- RECENT-REPOS:START -->
 | Project | Description | Lang | Stars | Last Push |
 |---------|-------------|------|-------|-----------|
-| [**Septum**](https://github.com/byerlikaya/Septum) | Privacy-first AI middleware with local PII detection, approval gate, and automatic de-anonymization. Query your documents with any LLM — GDPR, KVKK, HIPAA ready. | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logoColor=white) | ⭐ 6 | 2026-04-28 |
+| [**Septum**](https://github.com/byerlikaya/Septum) | Privacy-first AI middleware with local PII detection, approval gate, and automatic de-anonymization. Query your documents with any LLM — GDPR, KVKK, HIPAA ready. | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logoColor=white) | ⭐ 6 | 2026-04-29 |
 | [**SatelliteEye**](https://github.com/byerlikaya/SatelliteEye) | AI-powered live TV assistant: identifies current programs, analyzes on-screen visuals, summarizes broadcast audio, and supports Telegram + web workflows. | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logoColor=white) | ⭐ 3 | 2026-03-28 |
 | [**SmartRAG**](https://github.com/byerlikaya/SmartRAG) | Multi-Modal RAG for .NET — query databases, documents, images and audio in natural language. Production-ready with multi-AI support, vector storage, and multi-database coordination. | ![C#](https://img.shields.io/badge/-C%23-178600?style=flat-square&logoColor=white) | ⭐ 24 | 2026-03-09 |
 <!-- RECENT-REPOS:END -->
