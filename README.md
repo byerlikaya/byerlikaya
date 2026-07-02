@@ -39,6 +39,3 @@ from telecom to fintech, from assembly lines to AI middleware.*
 
 ---
 
-<div align="center">
-  <i>"Software is not just a job — it's a game, a passion, a hobby, and a business."</i>
-</div>
