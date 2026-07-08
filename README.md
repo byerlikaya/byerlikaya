@@ -1,7 +1,5 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Barış+Yerlikaya+👋;Senior+Software+Architect+%26+Manager;Electronics+%26+Robotics+Enthusiast;Building+things+since+2000)](https://git.io/typing-svg)
-
 **Senior Software Architect & Manager · Antalya, Türkiye**
 
 *Passionate about electronics and robotics since 2000. Building production software since 2007 —
