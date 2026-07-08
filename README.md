@@ -25,14 +25,3 @@ from telecom to fintech, from assembly lines to AI middleware.*
 - 🔌 Contributed to industrial projects involving both **software and hardware design** (PCB included)
 - 🎮 I see software as a game, a passion, a hobby — and a business
 
----
-
-## 🔨 Recently Active
-
-<!-- RECENT-REPOS:START -->
-| Project | Description | Lang | Stars | Last Push |
-|---------|-------------|------|-------|-----------|
-| [**claude-starter-kit**](https://github.com/byerlikaya/claude-starter-kit) | *No description* | ![Shell](https://img.shields.io/badge/-Shell-aaaaaa?style=flat-square&logoColor=white) | ⭐ 0 | 2026-07-07 |
-| [**homebrew-tap**](https://github.com/byerlikaya/homebrew-tap) | Homebrew tap for the Agentic Working Kit (claude-kit) | ![Ruby](https://img.shields.io/badge/-Ruby-aaaaaa?style=flat-square&logoColor=white) | ⭐ 0 | 2026-07-07 |
-| [**Septum**](https://github.com/byerlikaya/Septum) | Privacy-first AI middleware with local PII detection, approval gate, and automatic de-anonymization. Query your documents with any LLM — GDPR, KVKK, HIPAA ready. | ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logoColor=white) | ⭐ 9 | 2026-04-29 |
-<!-- RECENT-REPOS:END -->
